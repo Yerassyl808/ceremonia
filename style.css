@@ -1,0 +1,35 @@
+pre{
+    text-align: center;
+    padding-left: -10px;
+    margin-bottom: 150px;
+}
+img {
+    display: block;
+    margin: auto;
+    background-size: cover;
+    border-radius: 30px;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 1);
+    width: 850px;
+    margin-top: -100px;
+}
+b{
+    margin-left: 150;
+    margin-bottom: 150px;
+}
+header {
+    text-align: center;
+    background-color: #d0d8cb;
+    padding: 5px;
+    border-radius: 30px;
+    width: 75em;
+    height: 663em;
+    margin-left: 127px;
+    background-image: url('img1.akspic.ru-nebo-kofe-rastitelnost-chaj-trava-1080x1920.jpg');
+    background-size: 10px; /* или contain в зависимости от ваших предпочтений */
+    background-position: center;
+  }
+  body{
+    background-color: #F0F9CF;
+    margin-block-end: auto;
+    margin-block-start: auto;
+}
